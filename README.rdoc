@@ -1,15 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby on Rails Tutorial: first application
 
-Things you may want to cover:
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+* Ruby version - 1.9.3
 
-* Ruby version
+* System dependencies - none
 
-* System dependencies
-
-* Configuration
+* Configuration - DB - MySQL
 
 * Database creation
 
